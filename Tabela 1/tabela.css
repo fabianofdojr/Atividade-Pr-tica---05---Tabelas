@@ -1,0 +1,17 @@
+body {
+  background: rgb(42, 104, 184);
+}
+
+tr {
+  width: 80px;
+  height: 20px;
+  background: #ffff;
+  border: 2px solid rgb(104, 147, 241);
+}
+
+td {
+  width: 80px;
+  height: 20px;
+  background: #ffff;
+  border: 2px solid rgb(104, 147, 241);
+}
